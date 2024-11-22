@@ -367,7 +367,7 @@ ul
     transition: all 0.3s ease;
     scale: 1.1;
     /* transform: translateY(-5px); */
-    text-shadow: 0 0 5px var(--skin-color);
+    
     color: var(--skin-color) !important;
 }
 .aside .nav li a i
